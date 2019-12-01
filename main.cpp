@@ -16,3 +16,8 @@ int test1_fixbug(int arg1, int arg2, int arg3){
 	int tmp = arg1 + arg2 + arg3;
 	return tmp;
 }
+
+int testdev(int arg1, int arg2, int arg3){
+	int tmp = arg1 + arg2 + arg3;
+	return tmp;
+}
